@@ -81,7 +81,7 @@
                                 <a href="#resume">
                                     <button type="button" class="btn button primary-button mr-4 text-uppercase">Read cv </button>
                                 </a>
-                                <a href="#">
+                                <a href="monish-software-developer-resume.pdf">
                                     <button type="button" class="btn button secondary-button text-uppercase">get cv </button>
                                 </a>
                             </div>
@@ -178,9 +178,9 @@
                 <div class="row skills-content pt-4">
                     <div class="col-lg-6">
                         <div class="progress">
-                            <span class="skill">HTML <i class="val">100%</i></span>
+                            <span class="skill">HTML <i class="val">90%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" role="progressbar" style="width:100%"></div>
+                                <div class="progress-bar" role="progressbar" style="width:90%"></div>
                             </div>
                         </div>
                         <div class="progress">
@@ -190,17 +190,17 @@
                             </div>
                         </div>
                         <div class="progress">
-                            <span class="skill">JavaScript <i class="val">90%</i></span>
+                            <span class="skill">JavaScript <i class="val">85%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" role="progressbar" style="width:90%"></div>
+                                <div class="progress-bar" role="progressbar" style="width:85%"></div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="progress">
-                            <span class="skill">jquery <i class="val">95%</i></span>
+                            <span class="skill">jquery <i class="val">90%</i></span>
                             <div class="progress-bar-wrap">
-                                <div class="progress-bar" role="progressbar" style="width:95%"></div>
+                                <div class="progress-bar" role="progressbar" style="width:90%"></div>
                             </div>
                         </div>
                         <div class="progress">
@@ -209,6 +209,19 @@
                                 <div class="progress-bar" role="progressbar" style="width:95%"></div>
                             </div>
                         </div>
+			 <div class="progress">
+                            <span class="skill">Core java <i class="val">80%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" style="width:80%"></div>
+                            </div>
+                        </div>
+			 <div class="progress">
+                            <span class="skill">MySql <i class="val">70%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" style="width:70%"></div>
+                            </div>
+                        </div>
+			    
                     </div>
                 </div>
             </div>
@@ -314,7 +327,7 @@
             <div class="container">
                 <div class="section-title">
                     <h2>Resume</h2>
-                    <p>Recent bachelor's degree recipient with a background in Information Technology . CNC web developer certification.
+                    <p>Recent bachelor's degree recipient with a background in Information Technology . FullStack java developer certification.
                         <br> “I am seeking opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realising my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective.”</p>
                 </div>
                 <div class="row">
@@ -322,8 +335,7 @@
                         <h3 class="resume-title">Myself</h3>
                         <div class="resume-item pb-0">
                             <h4>Monish Sherkhane</h4>
-                            <p><em>Passionate front-end web developer with 3 months of experience using JavaScript, HTML5, and CSS to
-                                build all aspects of the user experience and user interface for client-facing landing pages. </em>
+                            <p><em>Passionate Fullstack web developer with 8 months of experience in web designing using html, html5, css, css3, photoshop, dreamweaver, wordpress to build all aspects of the user experience and user interface for client-facing landing pages. </em>
                             </p>
                             <ul>
                                 <li>Ghansoli , Navi-Mumbai . </li>
@@ -341,6 +353,7 @@
                         <div class="resume-item">
                             <h4>hsc</h4>
                             <h5>2017-2018</h5>
+                            <h5>Commerce IT+Maths </h5>
                             <p><em> State Board of Maharashtra<br>Percentage :- 56.77% </em></p>
                             <p> DVS college-Koparkhairane- Navi-Mumabai . </p>
                         </div>
@@ -350,25 +363,53 @@
                             <p><em> State Board of Maharashtra<br>Percentage :- 69.40% </em></p>
                             <p> Shetkari Shikshan Sanstha's vidyalaya - Ghansoli - Navi-Mumbai . </p>
                         </div>
+						<h3 class="resume-title">Skills</h3>
+                        <div class="resume-item">
+                            <h4>Bachelor of Science, Information Technology </h4>
+                            <p><strong>Front-end:</strong> Html, css, javascript, jquery, html5, css3, bootstrap, react js, photoshop, dreamweaver, wordpress <br> <strong>Back-end:</strong> Core java, mysql, dotnet <br> <strong>Other Technical:</strong> Excel, ms word, digital marketing, seo, social media marketing, creating email signatures</p>
+                        </div>
                     </div>
                     <div class="col-lg-6">
                         <h3 class="resume-title"> Work Experience In Web Developement</h3>
-                        <div class="resume-item">
-                            <h4>Fresher</h4>
+						<div class="resume-item">
+                            <h4>Team Leader(Web Development & Support)</h4>
+							<h5>Jan 2023 - Current</h5><h5>Mesotek Technologies pvt ltd.</h5>
+							<p>➼ Handling Web Designing and support team<br>
+							➼ Creating responsive and attractive websites . <br>
+							➼ Google Workspace. </br>
+							➼ Creating google workspace business ID's and webmail ID's</br>
+							➼ Creating wordpress websites</br>
+							➼ handling client's issues</p>
+                        </div>
+						<div class="resume-item">
+                            <h4>Web Designer</h4>
+							<h5>oct 2022 - Dec 2022</h5><h5>Mesotek Technologies pvt ltd.</h5>
+							<p>➼ Creating responsive and attractive websites . <br>
+							➼ Google Workspace. </br>
+							➼ Creating google workspace business ID's and webmail ID's</br>
+							➼ Creating wordpress websites</br>
+							➼ handling client's issues</p>
+                        </div>
+						<div class="resume-item">
+                            <h4>CSR</h4>
+							<h5>Jun 2021 - March 2022</h5><h5>Sincetele.</h5>
+							<p>➼ Lead generation <br>
+							➼ sales.</p>
                         </div>
                         <h3 class="resume-title">Courses</h3>
                         <div class="resume-item">
                             <h4>Full stack Development</h4>
                             <h5>2021 - Present</h5>
                             <p><em>CNC Web World </em></p>
-                            <p>Front-end: Html, css, JavaScript, jQuery, HTML5, CSS3, Bootstrap, React JS <br> Back-end: Core Java, MySql</p>
+                            <p>Front-end: Html, css, javascript, jquery, html5, css3, bootstrap, react js, photoshop, dreamweaver, wordpress <br> Back-end: Core Java, MySql</p>
                         </div>
                         <h3 class="resume-title">Certificate</h3>
                         <div class="resume-item">
-                            <h4>Frontend Developer</h4>
+                            <h4>Fullstack Java Developer</h4>
                             <h5>2021</h5>
                             <p><em>CNC Web World </em></p>
-                            <p>Front-end: Html, css, JavaScript, jQuery, HTML5, CSS3, Bootstrap, React JS</p>
+                            <p>Front-end: Html, css, JavaScript, jQuery, html5, css3, bootstrap</p>
+                            <p>Back-end: Java, Mysql, Dot-net</p>
                         </div>
                        
                         
